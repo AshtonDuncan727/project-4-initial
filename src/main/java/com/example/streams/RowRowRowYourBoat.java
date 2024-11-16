@@ -1,22 +1,5 @@
 package com.example.streams;
 
-/**
- * Example Output:
- * <pre>
- * 1) [Apple, Banana, Orange, Peach, Pear, Tomato]
- * 2) [Banana, Orange, Peach, Pear, Tomato]
- * 3) [Apple, Banana]
- * 4) Apple, Banana, Orange, Peach, Pear, Tomato
- * 5) [Tomato, Potato, Pea, Corn, Carrot]
- * 6) [TOMATO, POTATO, PEA, CORN, CARROT]
- * 7) [1000, 1000, 999, 999, 995, 995, 994, 993, 991, 990] *
- * 8) [1000, 999, 995, 994, 993, 991, 990, 989, 987, 986] *
- * 9) [999, 995, 993, 991, 989, 987, 985, 983, 981, 979] *
- * 10) 498.461 *
- *
- *     * These values will be different every run
- * </pre>
- */
 public class RowRowRowYourBoat {
 
     public static void main(String[] args) {
